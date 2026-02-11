@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-stats-yuzakikokuban.vercel.app/api?username=YuzakiKokuban&show_icons=true&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&icon_color=a8c7fa&border_color=444746&count_private=true&include_all_commits=true&exclude_forks=true&exclude_repo=android_kernel_samsung_sm8650,android_kernel_samsung_sm8750,android_kernel_samsung_sm8550_S23,android_kernel_samsung_mt6989_TabS10" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-yuzakikokuban.vercel.app/api?username=YuzakiKokuban&show_icons=true&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&icon_color=a8c7fa&border_color=444746&count_private=true&include_all_commits=true&exclude_forks=true&exclude_repo=android_kernel_samsung_sm8650,android_kernel_samsung_sm8750,android_kernel_samsung_sm8550_S23,android_kernel_samsung_mt6989_TabS10,android_kernel_samsung_sm8550_Z5" height="180" alt="stats graph" />
   
   <img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=Hybrid-Mount&repo=meta-hybrid_mount&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&icon_color=a8c7fa&border_color=444746&show_owner=true" height="180" alt="meta-hybrid_mount stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/top-langs/?username=YuzakiKokuban&layout=compact&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&hide_border=true&exclude_forks=true&exclude_repo=android_kernel_samsung_sm8650,android_kernel_samsung_sm8750,android_kernel_samsung_sm8550_S23,android_kernel_samsung_mt6989_TabS10" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/top-langs/?username=YuzakiKokuban&layout=compact&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&hide_border=true&exclude_forks=true&exclude_repo=android_kernel_samsung_sm8650,android_kernel_samsung_sm8750,android_kernel_samsung_sm8550_S23,android_kernel_samsung_mt6989_TabS10,android_kernel_samsung_sm8550_Z5" height="180" alt="languages graph" />
 </div>
